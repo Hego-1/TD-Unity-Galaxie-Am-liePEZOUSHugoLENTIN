@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 864388852200424838}
-  - component: {fileID: -7678892837883052901}
+  - component: {fileID: 5534656048603477820}
   m_Layer: 0
   m_Name: PlanetA
   m_TagString: Untagged
@@ -33,7 +33,7 @@ Transform:
   - {fileID: 6408478047926782138}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &-7678892837883052901
+--- !u!114 &5534656048603477820
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -42,7 +42,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 455743908326771192}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9a05d5ae84484654baf667ca9800fb7a, type: 3}
+  m_Script: {fileID: 11500000, guid: 58c6a8bf586305f4d8107be3cd3243c4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Orbits
   pivot: {fileID: 0}
